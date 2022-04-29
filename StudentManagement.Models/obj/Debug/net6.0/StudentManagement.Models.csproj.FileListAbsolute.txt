@@ -1,0 +1,12 @@
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\bin\Debug\net6.0\StudentManagement.Models.deps.json
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\bin\Debug\net6.0\StudentManagement.Models.dll
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\bin\Debug\net6.0\StudentManagement.Models.pdb
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\StudentManagement.Models.csproj.AssemblyReference.cache
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\StudentManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\StudentManagement.Models.AssemblyInfoInputs.cache
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\StudentManagement.Models.AssemblyInfo.cs
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\StudentManagement.Models.csproj.CoreCompileInputs.cache
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\StudentManagement.Models.dll
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\refint\StudentManagement.Models.dll
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\StudentManagement.Models.pdb
+D:\phat_trien_ung_dung_windows\StudentManagement.Models\obj\Debug\net6.0\ref\StudentManagement.Models.dll
